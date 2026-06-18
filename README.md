@@ -11,7 +11,7 @@
 - 💬 Ask me about Python, Machine Learning, LLMs, RAG pipelines, or breaking into AI/ML
 - ⚡ Fun fact: I once built a secure keylogger prototype to research AI applications in cybersecurity 🔐
 
-- 👨‍💻 All of my projects are available at [priyanshupatra.vercel.app](https://priyanshupatra.vercel.app/)
+- 👨‍💻 All of my projects are available at [01priyanshu.github.io/Priyanshu-Patra/](https://01priyanshu.github.io/Priyanshu-Patra/)
 
 - 📫 How to reach me **priyanshupatra22072002@gmail.com**
 
