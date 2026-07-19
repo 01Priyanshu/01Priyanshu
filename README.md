@@ -1,4 +1,4 @@
-# 💫 About Me         
+# 💫 About Me         =
 <h1 align="center">Hi 👋, I'm Priyanshu Patra</h1>
 <h3 align="center">Master's in Data Science @ ASU (4.0 GPA) | Data Analyst & Data Scientist — dashboards, statistical modeling, and applied ML 📊</h3>
 
