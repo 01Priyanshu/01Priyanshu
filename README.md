@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Patra</h1>
 <h3 align="center">Master's in Data Science @ ASU (4.0 GPA) | Data Analyst & Data Scientist — dashboards, statistical modeling, and applied ML 📊</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01priyanshu" alt="01priyanshu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01priyanshu" alt="01priyanshu" /></a> </p> 
 
 - 🔭 I'm currently working on data analysis, dashboarding, and applied ML projects — with some Agentic AI/RAG work on the side
 - 👯 I'm looking to collaborate on data analytics, data science, and BI dashboard projects
